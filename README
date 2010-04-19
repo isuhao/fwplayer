@@ -1,0 +1,12 @@
+Video player is the interface between a video streaming system and users. 
+A general strategy to implement video player is wrapping existing video 
+playing cores with a customized GUI. FireWind Player designed such a 
+software framework on Windows. ActiveX controls of Windows Media Player, 
+RealPlayer, and Adobe Flash Player work as video playing cores. GUI is 
+implemented with an Adobe Flash file (.swf), which interacts with its 
+owner software (FireWind Player) via the interface of Adobe Flash Player. 
+Obviously, The video formats and streaming protocols supported is 
+determined by the playing cores and extendable. The style of GUI (theme) 
+can be changed simply with different Flash files (.swf).  
+
+li@maoxuli.com
