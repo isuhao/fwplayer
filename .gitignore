@@ -2,3 +2,11 @@
 *.exe
 *.sln
 *.txt
+*.xml
+*.sdf
+*.aps
+*.suo
+*.user
+Debug/
+Release/
+ipch/

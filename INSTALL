@@ -1,0 +1,9 @@
+1. This code is compiled on Windows with Visual Studio 2008 or Visual Studio 2010. 
+2. Running of the program depends on below ActiveX controls. Please install them 
+firstly. 
+   * Adobe Flash Player
+   * Microsoft Windows Media Player
+   * Real Network RealPlayer (Optional)
+3. This code is only a reference implementation. You may expect it running with 
+bugs or even not running. 
+
